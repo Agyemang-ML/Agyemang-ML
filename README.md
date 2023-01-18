@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agyemang-ML
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on machine learning projects from NLP to Computer Vision or any specific projects like Data analyst remember I am response to data.
+- 💞️ I’m looking to collaborate on machine learning projects from NLP to Computer Vision or any specific projects like Data analyst remember I response to data.
 - 📫 How to reach me agyemangkevin57@gmail.com
 
 <!---
